@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiruna Nimesh</h1>
+
+<p align="center">
+  <img src="https://github.com/hirunanimesh/hirunanimesh/blob/main/d481f3c72e283309071f79e01b05c06d.gif" alt="GIF showcasing something fun or your work" width="500"/>
+</p>
+
 <h3 align="center">Undergraduate in the Department of Computer Science and Engineering at the University of Moratuwa</h3>
 
 - 🌱 I’m currently learning **Augmented Reality**
