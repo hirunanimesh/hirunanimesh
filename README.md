@@ -27,13 +27,17 @@
 
 ---
 
-<div style="display:flex; justify-content: center; align-items: center; gap: 20px;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirunanimesh&show_icons=true&locale=en&layout=compact" alt="hirunanimesh" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=hirunanimesh&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-  </p>
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hirunanimesh&theme=github_dark" alt="GitHub Stats" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hirunanimesh&theme=github_dark&utcOffset=5" alt="Most Productive Time" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hirunanimesh&theme=github_dark" alt="Most Used Languages" width="330" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hirunanimesh&theme=github_dark" alt="Profile Details" width="1000" />
+</p>
+
+
+
 
 
