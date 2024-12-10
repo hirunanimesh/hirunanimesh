@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://github.com/hirunanimesh/hirunanimesh/blob/main/gif%202.gif" alt="GIF showcasing something fun or your work" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hiruna Nimesh</h1>
 
-<p align="center">
-  <img src="https://github.com/hirunanimesh/hirunanimesh/blob/main/gif%202.gif" alt="GIF showcasing something fun or your work" width="500"/>
-</p>
+
 
 <h3 align="center">Undergraduate in the Department of Computer Science and Engineering at the University of Moratuwa</h3>
 
