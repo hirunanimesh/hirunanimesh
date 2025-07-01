@@ -32,7 +32,7 @@ const hiruna = {
     technologies: {
         frontEnd: ["React", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Sass"],
         backEnd: ["Node.js", "Express.js"],
-        databases: ["MySQL"],
+        databases: ["MySQL" , "PostgreSQL"],
         languages: ["JavaScript", "Python", "Java", "C", "C++"],
         tools: ["Git", "Postman", "Figma", "Chart.js"],
         currentlyLearning: ["Advanced React Patterns", "System Design"]
