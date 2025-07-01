@@ -32,7 +32,7 @@ const hiruna = {
     technologies: {
         frontEnd: ["React", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Sass"],
         backEnd: ["Node.js", "Express.js"],
-        databases: ["MySQL" , "PostgreSQL"],
+        databases: ["MySQL", "PostgreSQL"],
         languages: ["JavaScript", "Python", "Java", "C", "C++"],
         tools: ["Git", "Postman", "Figma", "Chart.js"],
         currentlyLearning: ["Advanced React Patterns", "System Design"]
@@ -64,6 +64,7 @@ const hiruna = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
